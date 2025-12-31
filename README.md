@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on Data Science and Machine Learning<br>Keen interest in Generative AI and conversation chatbots, automation and Agentic <br>AI.
+Working on Data Science and Machine Learning<br>Keen interest in Generative AI, conversation chatbots, automation and Agentic <br>AI.
 
 
 ## 🌐 Socials:
