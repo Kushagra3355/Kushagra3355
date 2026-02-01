@@ -10,7 +10,7 @@ Working on Data Science and Machine Learning<br>Keen interest in Generative AI, 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kushagra3355&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kushagra3355&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra3355&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kushagra3355&theme=radical&no-frame=false&no-bg=true&margin-w=4)
