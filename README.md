@@ -2,7 +2,7 @@
 
 # Kushagra Omar
 
-**AI Engineer · Agentic Systems · Generative AI**
+**AI Engineer · Data Science **
 
 Building multi-agent systems, RAG pipelines, and production ML — currently shipping autonomous agents at AiProff.ai
 
@@ -29,7 +29,7 @@ Currently focused on **agentic AI**, **conversational systems**, and **workflow 
 ### Selected Work
 
 **Autonomous Procurement Negotiation Engine** — AiProff.ai
-A 5-agent LangGraph system that models a 200-item Bill-of-Materials as a DAG for bottom-up cost rollups, cutting negotiation prep from 10+ hours to minutes. Shipped as a FastAPI + React platform with a tail-spend chatbot, human-in-the-loop review, and AWS SES automation on a PostgreSQL/EC2 backend.
+An intelligent system that models a 200-item Bill-of-Materials as a DAG for bottom-up cost rollups, cutting negotiation prep from 10+ hours to minutes. Shipped as a FastAPI + React platform with a tail-spend chatbot, human-in-the-loop review, and AWS SES automation on a PostgreSQL/EC2 backend.
 
 **Balela AI — Socratic Study Assistant**
 An end-to-end multi-agent tutor built on LangGraph and FastAPI, serving 100+ daily student queries. Uses MongoDB vector search with tuned chunking to improve retrieval accuracy by 40% and keep hallucination rates under 2%, at sub-1.5s average latency.
