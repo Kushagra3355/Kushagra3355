@@ -86,22 +86,10 @@ A modular OCR extraction pipeline handling 10+ identity and educational document
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kushagra3355&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Kushagra3355&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kushagra3355&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&cache_seconds=1800" width="48%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Kushagra3355&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kushagra3355&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kushagra3355/Kushagra3355/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%"/>
-
-<sub>Requires a one-time GitHub Actions setup — see note below.</sub>
+<img src="https://github-profile-trophy.vercel.app/?username=Kushagra3355&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
