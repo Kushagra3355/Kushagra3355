@@ -35,7 +35,6 @@ An intelligent system that models a 200-item Bill-of-Materials as a DAG for bott
 
 **Balela AI — Socratic Study Assistant**
 An end-to-end multi-agent tutor built on LangGraph and FastAPI, serving 100+ daily student queries. Uses MongoDB vector search with tuned chunking to improve retrieval accuracy by 40% and keep hallucination rates under 2%, at sub-1.5s average latency.
-[View on GitHub →](https://github.com/Kushagra3355)
 
 **Document Intelligence & Verification Engine** — AiProff.ai
 A modular OCR extraction pipeline handling 10+ identity and educational document formats, processing files in under 8 seconds and triggering automated report generation from unstructured credential data.
