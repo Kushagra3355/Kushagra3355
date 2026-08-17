@@ -41,12 +41,3 @@ A modular OCR extraction pipeline handling 10+ identity and educational document
 
 ---
 
-## My Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushagra3355&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kushagra3355&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra3355&layout=compact&theme=tokyonight)
-
----
